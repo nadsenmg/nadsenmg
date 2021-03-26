@@ -6,6 +6,11 @@ I am a Student in Systems Analysis and Development that has been studying back-e
 
 I am passionate with technology and to learning new skills and knowledge.
 
+### Connect with me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nadsenmg)](https://github.com/nadsenmg)
+[![Github Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nadsenmg/)](https://https://www.instagram.com/nadsenmg/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadsenmartins/)](https://www.linkedin.com/in/nadsenmartins/)
+
 ### Language and Tools
 * #### JAVA <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> 
 * #### HTML5 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
@@ -18,7 +23,4 @@ I am passionate with technology and to learning new skills and knowledge.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadsenmg&layout=compact)](https://github.com/nadsenmg/github-readme-stats)
 
-### Connect with me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nadsenmg)](https://github.com/nadsenmg)
-[![Github Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nadsenmg/)](https://https://www.instagram.com/nadsenmg/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadsenmartins/)](https://www.linkedin.com/in/nadsenmartins/)
+
